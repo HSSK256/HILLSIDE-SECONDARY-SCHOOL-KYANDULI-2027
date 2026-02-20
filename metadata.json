@@ -1,0 +1,8 @@
+{
+  "name": " HILLSIDE SECONDARY SCHOOL-KYANDULI 2026",
+  "description": "A comprehensive High School Management System for HILLSIDE SECONDARY SCHOOL-KYANDULI, featuring student, teacher, and grade management with AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
